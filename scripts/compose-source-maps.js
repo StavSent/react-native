@@ -13,6 +13,9 @@
 const {composeSourceMaps} = require('metro-source-map');
 const fs = require('fs');
 
+
+
+
 console.log("askdjbaslkdjbadkasjbdkasj")
 
 const argv = process.argv.slice(2);
