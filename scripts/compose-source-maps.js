@@ -9,9 +9,6 @@
  */
 
 'use strict';
-
-
-
 const {composeSourceMaps} = require('metro-source-map');
 const fs = require('fs');
 
