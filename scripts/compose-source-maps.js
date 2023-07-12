@@ -14,7 +14,6 @@ const fs = require('fs');
 
 console.log("askdjbaslkdjbadkasjbdkasj")
 
-
 const argv = process.argv.slice(2);
 let outputPath;
 for (let i = 0; i < argv.length; ) {
